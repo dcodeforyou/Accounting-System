@@ -17,7 +17,6 @@
 
 Demo of creating Transactions
 <br />
-![Demo Video](assets/save-transactions.mov)
 <video src='assets/save-transactions.mov' width=180/>
 
 Demo of fetching Transactions based on transaction Type and Page No.
