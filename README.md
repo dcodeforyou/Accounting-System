@@ -67,7 +67,7 @@ You need to have [Node](https://www.nodejs.org/) installed on your machine.
 
 1. Clone the repo with - 
    ```sh
-   git clone [https://github.com/dcodeforyou/drone-simulator.git](https://github.com/dcodeforyou/Accounting-System)
+   git clone https://github.com/dcodeforyou/Accounting-System
    ```
 2. Inside the project root directory install NPM packages with -
    ```sh
