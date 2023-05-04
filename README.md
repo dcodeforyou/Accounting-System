@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dcodeforyou/Accounting-System" target="_blank">
-    Accounting System for Users(Hosted)
+    Accounting System for Users
   </a>
 
 <h3 align="center">Accounting System: Node.js App for creating transaction, fetching transaction, and getting total transactions</h3>
@@ -18,14 +18,17 @@
 Demo of creating Transactions
 <br />
 ![Demo Video](assets/save-transactions.mov)
+<video src='assets/save-transactions.mov' width=180/>
 
 Demo of fetching Transactions based on transaction Type and Page No.
 <br />
 ![Demo Video](assets/fetch-transactions.mov)
+<video src='assets/fetch-transactions.mov' width=180/>
 
 Demo of getting total Transactions based on transaction type and location ID
 <br />
 ![Demo Video](assets/total-transactions.mov)
+<video src='assets/fetch-transactions.mov' width=180/>
 
 Description
 
