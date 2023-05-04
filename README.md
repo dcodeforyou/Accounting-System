@@ -17,18 +17,27 @@
 
 Demo of creating Transactions
 <br />
-assets/save-transactions.mov
-<video src='assets/save-transactions.mov' width=180/>
+
+
+https://user-images.githubusercontent.com/92050154/236232448-c2b9cb8e-e4cb-47d2-9031-ac416c4d304f.mov
+
+
 
 Demo of fetching Transactions based on transaction Type and Page No.
 <br />
-![Demo Video](assets/fetch-transactions.mov)
-<video src='assets/fetch-transactions.mov' width=180/>
+
+
+https://user-images.githubusercontent.com/92050154/236232620-2f5890a0-cd9d-4c7d-a94f-85ad83e275c4.mov
+
+
 
 Demo of getting total Transactions based on transaction type and location ID
 <br />
-![Demo Video](assets/total-transactions.mov)
-<video src='assets/fetch-transactions.mov' width=180/>
+
+
+https://user-images.githubusercontent.com/92050154/236232740-f9fe22dc-c58d-44ce-b363-69e2ae17fc9a.mov
+
+
 
 Description
 
